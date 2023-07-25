@@ -3,6 +3,18 @@
 
 Проект представляет собой `веб-сайт` для автодрома Портимао в Португалии. Он содержит информацию о треке, предстоящих гонках, блог с последними новостями и контактные данные. Сайт разработан на `HTML`,`CSS` и `JavaScript` с использованием библиотеки Bootstrap и плагина Swiper для слайдеров.
 
+# ФОТО сайта:
+![Снимок экрана 2023-07-25 225153](https://github.com/Mustafa10101/Car-Lamborgini/assets/121601835/f08b7c18-7fa3-4d80-b14a-857dba13849f)
+![Снимок экрана 2023-07-25 225206](https://github.com/Mustafa10101/Car-Lamborgini/assets/121601835/a593ebdd-d9c8-4e09-8f64-e84ecc694f68)
+![Снимок экрана 2023-07-25 225223](https://github.com/Mustafa10101/Car-Lamborgini/assets/121601835/2d7cbf9a-7d66-43c5-8c7a-2f55ef8f5c7d)
+![Снимок экрана 2023-07-25 225234](https://github.com/Mustafa10101/Car-Lamborgini/assets/121601835/1760f6b7-ed80-469b-8340-48872b794aad)
+![Снимок экрана 2023-07-25 225248](https://github.com/Mustafa10101/Car-Lamborgini/assets/121601835/e808a3d9-0b5f-42bd-b2ba-0a8ef1549bbf)
+![Снимок экрана 2023-07-25 225259](https://github.com/Mustafa10101/Car-Lamborgini/assets/121601835/3ede6baf-a286-4484-9862-380faaa93b44)
+![Снимок экрана 2023-07-25 225307](https://github.com/Mustafa10101/Car-Lamborgini/assets/121601835/3ccee3a4-e5e3-449c-9175-57c6b9139aec)
+![Снимок экрана 2023-07-25 225316](https://github.com/Mustafa10101/Car-Lamborgini/assets/121601835/b2872607-e0b6-40ac-8dcc-feb100df47e4)
+![Снимок экрана 2023-07-25 225324](https://github.com/Mustafa10101/Car-Lamborgini/assets/121601835/a83e5a5a-3f0f-4265-9d00-734270bd6fe2)
+
+
 ## Начало работы
 
 Склонируйте этот репозиторий на свой локальный компьютер для дальнейшей разработки и тестирования.
